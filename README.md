@@ -1,7 +1,8 @@
 # Philosophy - Popper
 
-## O que é isto?
-No âmbito de uma aula de Filosofia de 11º ano, foi realizado um ensaio filosófico sobre a filosofia da ciência. Este repositório é um dos recursos usados para comprovar que a ciência evolui.
+## What is this?
+
+As part of an 11th-grade Philosophy class, a philosophical essay on the philosophy of science was conducted. This repository is one of the resources used to demonstrate that science evolves.
 
 # ⚠️ Essay Artifact – No License / No Use Permitted
 
