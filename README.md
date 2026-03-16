@@ -73,6 +73,6 @@ Unauthorized use, reproduction, redistribution, or derivative work may constitut
 
 Requests for any use beyond viewing must be directed to:
 
-simao.vilas.dev@gmail.com
+Email: simao.vilas.dev@gmail.com
 
 Permission is granted **only at the sole discretion of the author**.
