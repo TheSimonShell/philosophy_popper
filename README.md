@@ -8,7 +8,8 @@ As part of an 11th-grade Philosophy class, a philosophical essay on the philosop
 
 ## Copyright Notice
 
-Copyright (c) 2026 Simão Cirilo Vilas
+Copyright (c) 2026 Simão Cirilo Vilas.
+
 All rights reserved.
 
 This repository contains **essay artifacts and reference implementation code** produced solely to accompany a **philosophical essay and related academic discussion**.
