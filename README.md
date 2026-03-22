@@ -10,6 +10,7 @@ As part of an 11th-grade Philosophy class, a philosophical essay on the philosop
 - 02 - Random password
 - 03 - Anagrams
 
+Colab for execution: https://colab.research.google.com/drive/1zjVfE6gUo3OGMNRT42rNZ_eM96x1rzgO?usp=sharing
 
 # ⚠️ Essay Artifact – No License / No Use Permitted
 
