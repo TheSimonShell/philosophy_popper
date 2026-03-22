@@ -6,9 +6,9 @@ from math import factorial
 from collections import Counter
 import itertools
 
-def count_anagrams(word):
-    n = len(word)
-    counts = Counter(word)
+def count_anagrams(word): # Cria uma função count_anagrams com a entrada de variavel word, para a palavra a verificar
+    n = len(word) # Obtem o tamanho da palavra
+    counts = Counter(word) # Verifica o número de ocorrências de letras, ou seja, quantas vezes uma letra aparece na palavra, por exemplo, na palavra Somente, S: 1 vez, O: 1 vez, M: 1 vez, E: 2 vezes, N: 1 vez e T: 1 vez
 
     denominator = 1
     for count in counts.values():

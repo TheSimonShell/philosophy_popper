@@ -14,11 +14,11 @@ def is_prime(n):
 
 def primes_up_to(limit): # Criar função primes_up_to com a entrada de argumento variável limit
     primes = [] # Cria array (lista) vazia para guardar os números primos
-    for num in range(2, limit + 1): # Por cada 
-        if is_prime(num):
-            primes.append(num)
-    return primes
+    for num in range(2, limit + 1): # Por cada número no alcance de 2 ao número limite, executa
+        if is_prime(num): # Se o número é primo
+            primes.append(num) # Adicionar o número primo a lista de números primos
+    return primes # Devolver a lista de números primos
 
 
 # Executar
-print(primes_up_to(10000))
+print(primes_up_to(10000)) # Imprimir os números primos até 10,000
