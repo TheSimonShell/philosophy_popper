@@ -6,9 +6,9 @@ As part of an 11th-grade Philosophy class, a philosophical essay on the philosop
 
 ## Which programs/scripts are included?
 
-01 - Prime numbers
-02 - Random password
-03 - Anagrams
+- 01 - Prime numbers
+- 02 - Random password
+- 03 - Anagrams
 
 
 # ⚠️ Essay Artifact – No License / No Use Permitted
