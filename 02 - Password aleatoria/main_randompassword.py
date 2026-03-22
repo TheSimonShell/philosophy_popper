@@ -43,12 +43,12 @@ part2 = round(characters_number * (20/100)) # Obtém a segunda parte da password
 result = [] # Cria uma array(lista) vazia para o resultado da password
 
 for x in range(part1): # Em cada caracter no alcance do número dado na part1, executa, sendo x o número atual
-    result.append(s1[x]) # Adiciona o caracter x na lista s1 a lista result
-    result.append(s2[x]) # Adiciona o caracter x na lista s2 a lista result
+    result.append(s1[x % len(s1)]) # Adiciona o caracter x na lista s1 a lista result (cíclico)
+    result.append(s2[x % len(s2)]) # Adiciona o caracter x na lista s2 a lista result (cíclico)
 
 for x in range(part2): # Em cada caracter no alcance do número dado na part2, executa, sendo x o número atual
-    result.append(s3[x]) # Adiciona o caracter x na lista s3 a lista result
-    result.append(s4[x]) # Adiciona o caracter x na lista s4 a lista result
+    result.append(s3[x % len(s3)]) # Adiciona o caracter x na lista s3 a lista result (cíclico)
+    result.append(s4[x % len(s4)]) # Adiciona o caracter x na lista s4 a lista result (cíclico)
 
 random.shuffle(result) # Baralha a lista result
 
