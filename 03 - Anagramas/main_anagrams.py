@@ -43,6 +43,8 @@ word = input("Escreve uma palavra: ").upper() # Obtém a palavra para os anagram
 
 total = count_anagrams(word) # Executa a função count_anagrams e guarda o número de anagramas
 
+print(f"\nNúmero total de anagramas: {total}")
+
 verification = input("Quer que dê a lista de anagramas possíveis? (s/N)") # Pergunta se quer ver a lista
 
 if verification == "s": # Se o utilizador quiser ver os anagramas
