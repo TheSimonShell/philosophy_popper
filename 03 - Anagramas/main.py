@@ -1,3 +1,7 @@
+# Problema 3
+
+# Obter o número e lista de anagramas numa palavra
+
 from math import factorial
 from collections import Counter
 import itertools

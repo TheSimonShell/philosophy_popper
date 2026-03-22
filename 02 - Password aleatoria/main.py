@@ -1,3 +1,7 @@
+# Problema 2
+
+# Obter uma password aleatória
+
 import string
 import random
 
