@@ -4,6 +4,13 @@
 
 As part of an 11th-grade Philosophy class, a philosophical essay on the philosophy of science was conducted. This repository is one of the resources used to demonstrate that science evolves.
 
+## Which programs/scripts are included?
+
+01 - Prime numbers
+02 - Random password
+03 - Anagrams
+
+
 # ⚠️ Essay Artifact – No License / No Use Permitted
 
 ## Copyright Notice
